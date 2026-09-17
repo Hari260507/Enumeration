@@ -1,5 +1,4 @@
 # Enumeration
-Enumeration Techniques
 
 # Explore Google hacking and enumeration 
 
@@ -106,6 +105,48 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+
+### 1. site
+<img width="1148" height="910" alt="site" src="https://github.com/user-attachments/assets/2f2bbc58-af98-4dca-bf28-aed4153fda2a" />
+
+### 2. filetype
+<img width="1148" height="909" alt="filetype" src="https://github.com/user-attachments/assets/4cd3dab7-b737-4f7d-9455-da1c89192e5f" />
+
+### 3. intext
+<img width="1151" height="912" alt="intext" src="https://github.com/user-attachments/assets/069d68c0-ee65-4039-a1a6-cb04d89722fc" />
+
+### 4. inurl
+<img width="1149" height="911" alt="inurl" src="https://github.com/user-attachments/assets/5b29db7a-ebbf-4242-8dc1-172ef37ef009" />
+
+### 5. intitle
+<img width="1148" height="909" alt="intitle" src="https://github.com/user-attachments/assets/510553d3-3946-4ced-a08b-5aae680d8fba" />
+
+### 6. link
+<img width="1151" height="910" alt="link" src="https://github.com/user-attachments/assets/102e9542-e5ca-4bad-a801-80e58eba2447" />
+
+### 7. cache
+<img width="1151" height="914" alt="cache" src="https://github.com/user-attachments/assets/bde1d194-b4be-416a-9a4e-1d9402d843cd" />
+
+## DNS Enumeration
+
+### 8. DNS Recon
+<img width="1920" height="844" alt="dnsrecon" src="https://github.com/user-attachments/assets/063c75df-4590-427e-a11e-b2539656cdbc" />
+
+### 9. dnsenum
+<img width="682" height="717" alt="Screenshot 2026-08-19 102401" src="https://github.com/user-attachments/assets/f2b4fa21-1fbe-47f1-8100-2c80d94bf2b9" />
+
+<img width="751" height="533" alt="Screenshot 2026-08-19 102421" src="https://github.com/user-attachments/assets/76e94c22-3e47-4a30-84bf-d345752f7bd7" />
+
+### 10. smtp-user-enum
+<img width="655" height="355" alt="image" src="https://github.com/user-attachments/assets/cd2d3441-fb27-4428-b26c-7655b5478aa5" />
+
+<img width="648" height="772" alt="image" src="https://github.com/user-attachments/assets/583e46ea-42b3-44bf-b3a7-b2ea2587afe6" />
+
+### 11. Telnet
+<img width="1067" height="492" alt="image" src="https://github.com/user-attachments/assets/f80736bf-ba30-4f51-a94e-84e826a6c57c" />
+
+### 12. nmap –script smtp-enum-users.nse <hostname>
+<img width="1037" height="471" alt="image" src="https://github.com/user-attachments/assets/e1c9573c-11c8-4f0f-856d-291555b56eea" />
 
 
 ## RESULT:
